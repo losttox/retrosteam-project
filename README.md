@@ -17,7 +17,7 @@ Users can log in, purchase games, buy gift cards, subscribe to services, and enj
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/BliriBerisha/retrosteam-project.git
+git clone https://github.com/losttox/retrosteam-project.git
 cd retrosteam-project-main
 ```
 
